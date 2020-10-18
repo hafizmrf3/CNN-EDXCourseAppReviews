@@ -1,2 +1,2 @@
-# CNN-UdemyAppReviews
-Sentiment Analysis on Udemy App Reviews using the Convolutional Neural Networks method
+# CNN-EDXCourseAppReviews
+Sentiment Analysis on EDX Course App Reviews using the Convolutional Neural Networks method
